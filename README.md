@@ -18,7 +18,7 @@ users to real-time engagement analyzers.
 | [RAG Chatbot] | PDF Q&A using retrieval-augmented generation | LangChain, Groq, Gradio |
 
 ## 📫 Let's connect
-[![LinkedIn]](https://www.linkedin.com/in/dona--babu)
-[![Email]](mailto:donababu02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dona--babu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:donababu02@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Donab01&show_icons=true&theme=default)
