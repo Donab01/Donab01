@@ -14,8 +14,8 @@ users to real-time engagement analyzers.
 | Project | What it does | Stack |
 |---|---|---|
 | [Vocalix](https://github.com/Donab01/vocalix_messaging.git) | AI voice messaging for speech-disabled & multilingual users | FastAPI, MOSS-TTS, React |
-| [FocusFlow](link) | Real-time meeting engagement analyzer | Python, OpenCV, ML |
-| [RAG Chatbot](link) | PDF Q&A using retrieval-augmented generation | LangChain, Groq, Gradio |
+| [FocusFlow](https://github.com/Donab01/mini_project_focusflow.git) | Real-time meeting engagement analyzer | Python, OpenCV, ML |
+| [RAG Chatbot] | PDF Q&A using retrieval-augmented generation | LangChain, Groq, Gradio |
 
 ## 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/dona-babu)
