@@ -6,7 +6,7 @@ users to real-time engagement analyzers.
 
 ## 🔧 Tech stack
 **Languages:** Python · JavaScript · Java · C · SQL  
-**AI/ML:** LangChain · Groq · HuggingFace · Scikit-learn · OpenCV  
+**AI/ML:** LangChain · Groq · HuggingFace · Scikit-learn · OpenCV   · NLP
 **Frameworks:** FastAPI · Flask · Django · React.js  
 **Tools:** Git · Figma · Power BI · UIPath
 
